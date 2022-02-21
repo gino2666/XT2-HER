@@ -2,5 +2,5 @@
  
 Welcome
  
-Hier in vidn je een dashboard voor SpaceX die ik had als opdracht.
+Hierin vindt je een dashboard voor SpaceX die ik had als opdracht.
 
